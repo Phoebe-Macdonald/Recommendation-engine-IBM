@@ -17,7 +17,7 @@ def sol_1_test(sol_1_dict):
     '`The article_id of the most viewed article is ______.`': '1429.0',
     '`The number of unique articles that have at least 1 rating ______.`': 714,
     '`The number of unique users in the dataset is ______`': 5148,
-    '`The number of unique articles on the IBM platform`': 1051,
+    '`The number of unique articles on the IBM platform`': 1070,
     }
     
     if sol_1_dict_ == sol_1_dict:
